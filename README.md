@@ -19,13 +19,13 @@ If you need to format a specific field, you can use the method `setfield`.
 	
 ## Credits
 
-(c) 2007 Francesco Sullo <sullof@sullof.com>
+(c) 2007 Francesco Sullo, Passpack SRL <francesco@passpack.com>
 
 ## License 
 
 (The MIT License)
 
-Copyright (c) 2010 Francesco Sullo <sullof@sullof.com>
+Copyright (c) 2010 Francesco Sullo, Passpack SRL <francesco@passpack.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
